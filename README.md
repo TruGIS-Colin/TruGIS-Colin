@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TruGIS-Colin
-- 👀 I’m interested in innovative Web Development and Geospatial services (GIS)
+- 👀 I’m interested in innovative Web Development and Geospatial Services (GIS)
 - 🌱 I’m currently learning how to run an efficient business
 - 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me... colin@trugis.ca
